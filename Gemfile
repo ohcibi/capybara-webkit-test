@@ -25,6 +25,8 @@ group :test do
   gem 'capybara'
   gem 'capybara-webkit'
   gem 'pry'
+  gem 'cucumber-rails'
+  gem 'database_cleaner'
 end
 
 gem 'jquery-rails'
